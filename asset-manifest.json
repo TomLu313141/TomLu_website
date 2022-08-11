@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tomlu_website/static/css/main.b973893a.css",
-    "main.js": "/tomlu_website/static/js/main.7572213a.js",
+    "main.js": "/tomlu_website/static/js/main.2d879e9f.js",
     "static/media/Java.png": "/tomlu_website/static/media/Java.e39b9aa104f97d332692.png",
     "static/media/photo2.JPG": "/tomlu_website/static/media/photo2.57e9bfe3c67a63ea54ae.JPG",
     "static/media/Python.png": "/tomlu_website/static/media/Python.20aa1faf88eb8ca6b8c9.png",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/tomlu_website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/tomlu_website/index.html",
     "main.b973893a.css.map": "/tomlu_website/static/css/main.b973893a.css.map",
-    "main.7572213a.js.map": "/tomlu_website/static/js/main.7572213a.js.map"
+    "main.2d879e9f.js.map": "/tomlu_website/static/js/main.2d879e9f.js.map"
   },
   "entrypoints": [
     "static/css/main.b973893a.css",
-    "static/js/main.7572213a.js"
+    "static/js/main.2d879e9f.js"
   ]
 }
